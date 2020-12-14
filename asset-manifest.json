@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/smart-brain-site/static/css/main.c5a3ee5c.chunk.css",
-    "main.js": "/smart-brain-site/static/js/main.e8d5eb83.chunk.js",
-    "main.js.map": "/smart-brain-site/static/js/main.e8d5eb83.chunk.js.map",
+    "main.js": "/smart-brain-site/static/js/main.060a11d9.chunk.js",
+    "main.js.map": "/smart-brain-site/static/js/main.060a11d9.chunk.js.map",
     "runtime-main.js": "/smart-brain-site/static/js/runtime-main.cb1860ca.js",
     "runtime-main.js.map": "/smart-brain-site/static/js/runtime-main.cb1860ca.js.map",
     "static/js/2.a073509c.chunk.js": "/smart-brain-site/static/js/2.a073509c.chunk.js",
     "static/js/2.a073509c.chunk.js.map": "/smart-brain-site/static/js/2.a073509c.chunk.js.map",
     "index.html": "/smart-brain-site/index.html",
-    "precache-manifest.c3462027df61a6aa4ea6ca0c5354dd36.js": "/smart-brain-site/precache-manifest.c3462027df61a6aa4ea6ca0c5354dd36.js",
+    "precache-manifest.6a67b4f3dd22fc80caf56edd50781470.js": "/smart-brain-site/precache-manifest.6a67b4f3dd22fc80caf56edd50781470.js",
     "service-worker.js": "/smart-brain-site/service-worker.js",
     "static/css/main.c5a3ee5c.chunk.css.map": "/smart-brain-site/static/css/main.c5a3ee5c.chunk.css.map",
     "static/js/2.a073509c.chunk.js.LICENSE.txt": "/smart-brain-site/static/js/2.a073509c.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.cb1860ca.js",
     "static/js/2.a073509c.chunk.js",
     "static/css/main.c5a3ee5c.chunk.css",
-    "static/js/main.e8d5eb83.chunk.js"
+    "static/js/main.060a11d9.chunk.js"
   ]
 }
